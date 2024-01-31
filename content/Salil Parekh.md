@@ -4,7 +4,7 @@ Note_Type:
 Position / Activity:
   - '"Untitled"'
 Fields of activity: 
-Website: 
-Collaborator: false
+Website: https://salilparekh.work/
+Collaborator: true
 ---
  
