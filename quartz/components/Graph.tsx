@@ -60,7 +60,7 @@ export default ((opts?: GraphOptions) => {
       <div class={classNames(displayClass, "graph")}>
         <h3>The Map</h3>
         <div class="graph-outer">
-          <div id="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
+          <div id="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
           <svg
             version="1.1"
             id="global-graph-icon"
